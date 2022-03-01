@@ -6,7 +6,7 @@
 #
 opencv-python==4.5.5.62
 absl-py==0.15.0
-
+uvicorn
     # via
     #   mediapipe
     #   tensorboard

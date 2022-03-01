@@ -5,7 +5,6 @@
 #    pip-compile
 #
 opencv-python==4.5.5.62
-starlette==0.14.2
 absl-py==0.15.0
 
     # via
